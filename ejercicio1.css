@@ -1,0 +1,55 @@
+#hola{
+    width: 600px, height: 600px;
+}
+
+div{
+    border: 5px solid rgb(250, 249, 249); 
+}
+
+#a{
+    width: 68%; height: 100px; background-color: green; float: left;
+}
+
+#b{
+    width: 28%; height: 100px; background-color: greenyellow; float: left;
+}
+
+#c{
+    width: 33%; height: 200px; background-color: black; float: left;
+}
+
+#d{
+    width: 33%; height: 200px; background-color: greenyellow; float: left;
+}
+
+#e{
+    width: 30%; height: 100px; background-color: green; float: left;
+}
+
+#f{
+    width: 30%; height: 100px; background-color: greenyellow; float: right;
+}
+
+#g{
+    width: 30%; height: 200px; background-color: black; float: right;
+}
+
+#h{
+    width: 70%; height: 100px; background-color: green; float: left;
+}
+
+#i{
+    width: 70%; height: 100px; background-color: greenyellow; float: left;
+}
+
+#j{
+    width: 33%; height: 100px; background-color: green; float: left;
+}
+
+#k{
+    width: 33%; height: 100px; background-color: greenyellow; float: left;
+}
+
+#l{
+    width: 34%; height: 100px; background-color: green; float: left;
+}
